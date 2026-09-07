@@ -23,3 +23,4 @@
 <p align="center"><img src="https://img.shields.io/github/followers/dlguswhd?style=flat-square&logo=github&label=followers&labelColor=0E061E&color=3A1654" />&nbsp;<img src="https://komarev.com/ghpvc/?username=dlguswhd&style=flat-square&color=3A1654&label=profile+views" />&nbsp;<img src="https://img.shields.io/badge/focus-Unity%20FPS-3A1654?style=flat-square&labelColor=0E061E" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_footer.gif?v=1" width="100%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/character.gif?v=7" width="100%" /></p>
