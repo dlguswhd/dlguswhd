@@ -1,8 +1,25 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_header.gif?v=1" width="100%" />
-</p> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=7EE7FF&center=true&vCenter=true&width=600&height=60&lines=HELLO+WORLD;UNITY+%2F+C%23;STILL+LEARNING" /> </div> <img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/divider.png" width="100%" /> <!-- ==================== 캐릭터 4장 ==================== character.png / character2.png / character3.png / character4.png 네 개를 저장소에 올리면 가로로 나란히 뜹니다. 안 쓸 이미지는 해당 <img> 태그만 지우면 됩니다. ==================================================== --> <p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/character.png?v=2" height="240" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/character2.png?v=2" height="240" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/character3.png?v=2" height="240" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/character4.png?v=2" height="240" /><p align="center">
-  <img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_divider.png?v=1" width="100%" />
-</p></p> <h3 align="center">&gt; ABOUT</h3> <p align="center">BCSDLab Game Track Regular<br>[KILL OR DEAD] 3D FPS 게임 제작중<br></p> <h3 align="center">&gt; STACK</h3> <p align="center"><img src="https://img.shields.io/badge/Unity-0B0D14?style=flat-square&logo=unity&logoColor=7EE7FF" />&nbsp;<img src="https://img.shields.io/badge/C%23-0B0D14?style=flat-square&logo=csharp&logoColor=7EE7FF" />&nbsp;<img src="https://img.shields.io/badge/Blender-0B0D14?style=flat-square&logo=blender&logoColor=FFC45C" />&nbsp;<img src="https://img.shields.io/badge/Git-0B0D14?style=flat-square&logo=git&logoColor=FFC45C" />&nbsp;<img src="https://img.shields.io/badge/GitHub-0B0D14?style=flat-square&logo=github&logoColor=FFFFFF" />&nbsp;<img src="https://img.shields.io/badge/Notion-0B0D14?style=flat-square&logo=notion&logoColor=FFFFFF" />&nbsp;<img src="https://img.shields.io/badge/Figma-0B0D14?style=flat-square&logo=figma&logoColor=FF7262" />&nbsp;<img src="https://img.shields.io/badge/Visual%20Studio-0B0D14?style=flat-square&logo=visualstudio&logoColor=C084FC" /></p> <img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/divider.png" width="100%" /> <div align="center"> <img src="https://streak-stats.demolab.com?user=dlguswhd&theme=dark&hide_border=true&background=0B0D14&border=1B2233&ring=7EE7FF&fire=FFC45C&currStreakLabel=7EE7FF&sideLabels=8AA0C0&dates=5A6B85&sideNums=FFFFFF&currStreakNum=FFFFFF" /> <p><img src="https://img.shields.io/github/followers/dlguswhd?style=flat-square&logo=github&label=followers&labelColor=0B0D14&color=1B2233" />&nbsp;<img src="https://komarev.com/ghpvc/?username=dlguswhd&style=flat-square&color=1B2233&label=profile+views" />&nbsp;<img src="https://img.shields.io/badge/focus-Unity%20FPS-1B2233?style=flat-square&labelColor=0B0D14" /></p> </div> <p align="center">
-  <img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_footer.gif?v=1" width="100%" />
-</p> <img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/footer.png" width="100%" />
+<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_header.gif?v=1" width="100%" /></p>
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=FF4FD8&center=true&vCenter=true&width=600&height=60&lines=HELLO+WORLD;UNITY+%2F+C%23;STILL+LEARNING" /></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_divider.png?v=1" width="100%" /></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/character.png?v=3" height="240" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/character2.png?v=3" height="240" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/character3.png?v=3" height="240" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/character4.png?v=3" height="240" /></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_divider.png?v=1" width="100%" /></p>
+
+<h3 align="center">&gt; ABOUT</h3>
+
+<p align="center">BCSDLab Game Track Regular<br>[KILL OR DEAD] 3D FPS 게임 제작중</p>
+
+<h3 align="center">&gt; STACK</h3>
+
+<p align="center"><img src="https://img.shields.io/badge/Unity-0E061E?style=flat-square&logo=unity&logoColor=46E5FF" />&nbsp;<img src="https://img.shields.io/badge/C%23-0E061E?style=flat-square&logo=csharp&logoColor=46E5FF" />&nbsp;<img src="https://img.shields.io/badge/Blender-0E061E?style=flat-square&logo=blender&logoColor=FFC45C" />&nbsp;<img src="https://img.shields.io/badge/Git-0E061E?style=flat-square&logo=git&logoColor=FFC45C" />&nbsp;<img src="https://img.shields.io/badge/GitHub-0E061E?style=flat-square&logo=github&logoColor=FFFFFF" />&nbsp;<img src="https://img.shields.io/badge/Notion-0E061E?style=flat-square&logo=notion&logoColor=FFFFFF" />&nbsp;<img src="https://img.shields.io/badge/Figma-0E061E?style=flat-square&logo=figma&logoColor=FF4FD8" />&nbsp;<img src="https://img.shields.io/badge/Visual%20Studio-0E061E?style=flat-square&logo=visualstudio&logoColor=A778FF" /></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_divider.png?v=1" width="100%" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=dlguswhd&theme=dark&hide_border=true&background=0E061E&border=3A1654&ring=FF4FD8&fire=FFC45C&currStreakLabel=46E5FF&sideLabels=A778FF&dates=68246A&sideNums=FFFFFF&currStreakNum=FFFFFF" /></p>
+
+<p align="center"><img src="https://img.shields.io/github/followers/dlguswhd?style=flat-square&logo=github&label=followers&labelColor=0E061E&color=3A1654" />&nbsp;<img src="https://komarev.com/ghpvc/?username=dlguswhd&style=flat-square&color=3A1654&label=profile+views" />&nbsp;<img src="https://img.shields.io/badge/focus-Unity%20FPS-3A1654?style=flat-square&labelColor=0E061E" /></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_footer.gif?v=1" width="100%" /></p>
