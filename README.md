@@ -25,6 +25,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_footer.gif?v=1" width="100%" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/character.gif?v=7" width="100%" /></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_divider.png?v=1" width="100%" /></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/sparxie.gif?v=1" width="320" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_footer.gif?v=1" width="100%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/sparxie.gif?v=1" width="480" /></p>
