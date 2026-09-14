@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/img.webp?v=1" width="100%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/header.webp?v=1" width="100%" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/dlguswhd/dlguswhd/main/bg_header.gif?v=1" width="100%" /></p>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=900&color=FF4FD8&center=true&vCenter=true&width=600&height=60&lines=HELLO+WORLD;UNITY+%2F+C%23;STILL+LEARNING" /></p>
