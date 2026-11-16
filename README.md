@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/sparxie-jump.gif" alt="스피키가 뛰는 모습" width="420">
+  <a href="./assets/sparxie-jump.gif" title="스피키뛰기 원본 GIF">
+    <img src="./assets/sparxie-jump-preview.gif" alt="스피키가 뛰는 모습" width="420">
+  </a>
 </p>
 
 <h1 align="center">dlguswhd</h1>
