@@ -1,20 +1,15 @@
 <p align="center">
   <a href="./assets/sparxie-jump.gif" title="스피키뛰기 원본 GIF">
-    <img src="./assets/sparxie-jump-preview.gif" alt="스피키가 뛰는 모습" width="420">
+    <img src="./assets/sparxie-jump-arcade.gif" alt="네온 도트 테두리 안에서 뛰는 스피키" width="672">
   </a>
 </p>
 
-<h1 align="center">dlguswhd</h1>
-
 <p align="center">
-  BCSDLab Game Track Regular<br>
-  <strong>KILL OR DEAD</strong> · Unity로 3D FPS 게임 제작 중
+  <img src="./assets/sparxie-pixel-background.png" alt="BCSDLab Game Track Regular" width="672">
 </p>
 
 <p align="center">
-  Unity · C# · Blender · Git · GitHub · Notion · Figma · Visual Studio
-</p>
-
-<p align="center">
-  <img src="./assets/sparxie-laugh.gif" alt="스피키가 웃는 모습" width="420">
+  <a href="./assets/sparxie-laugh.gif" title="스피키웃기 원본 GIF">
+    <img src="./assets/sparxie-laugh-arcade.gif" alt="네온 도트 테두리 안에서 웃는 스피키" width="672">
+  </a>
 </p>
